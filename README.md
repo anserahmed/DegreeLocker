@@ -102,7 +102,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     </li>
     <li><a href="#technologies-used">Technologies used</a></li>
     <li><a href="#local-setup">Local Setup</a></li>
-    <li><a href="#authors">Authors</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -124,7 +123,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 DegreeLocker is a project with the objective of implementing a highly effective anti-forgery system for academic documents such as transcripts, diplomas, mark sheets, and various certificates. The primary aim is to guarantee the legitimacy of academic records, thereby minimizing the occurrence of counterfeit certificates and streamlining the document verification process, ultimately leading to time and cost savings for all parties involved.
 
-The DegreeLocker solution revolves around three key roles or entities: the Issuer, the Verifier, and the Student:
+The DegreeLocker solution revolves around three key roles or entities: the Issuer, Verifier, and the Student:
 
 The Issuer represents the authoritative entity responsible for creating and issuing electronic certificates, such as a university granting graduation certificates.
 The Verifier, on the other hand, is typically an employer or any individual seeking to confirm the validity of a certificate provided by a student, such as a potential employer conducting background checks.
