@@ -75,6 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- PROJECT LOGO -->
 <br />
+<a href="https://github.com/anserahmed/DegreeLocker/edit/main/README.md">
+<img src= "https://github.com/anserahmed/DegreeLocker/blob/main/DegreeLocker.png">
+</a>
   <p align="center">
     A Student Document Management System based on Ethereum Blockchain
     <br />
